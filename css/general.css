@@ -52,7 +52,6 @@ header {
     background-repeat: no-repeat;
     background-position: center center;
     background-size: 50rem;
-
 }
 
 h1 {
@@ -100,3 +99,27 @@ figcaption {
     margin-top: .25rem 0 0;
     text-align: right;
     color: grey;
+}
+
+footer {
+    background-image:linear-gradient(90deg, white 5%, #878787 95%);
+    overflow:hidden;
+}
+
+.logo2 {
+    height: 3rem;
+    width: auto;
+    padding: .5rem 3%;
+    float: left;
+}
+
+footer p {
+    font-size: .75rem;
+    text-align: right;
+    margin: 1rem 10% 1rem;
+    color: white;
+}
+
+footer a {
+    color: #FFD800;
+}   
