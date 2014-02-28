@@ -35,7 +35,7 @@ body {
 
 header {
     overflow: hidden;
-    background-image:linear-gradient(90deg, white, #B2B2B2  95%);
+    background-image:linear-gradient(90deg, white 30%, #878787 90%);
     background-color: white;
 }
 
@@ -75,8 +75,8 @@ h1 span {
 
 h2 {
     color: black;
-    font-size: 1.7rem;
-    font-family:Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 1.5rem;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
     letter-spacing: +.05rem;
     text-shadow: .15rem .1rem .05rem rgba(0, 0, 0, .2);
 }
