@@ -73,10 +73,11 @@ h1 span {
 }
 
 h2 {
-    color: black;
+    color: grey;
+    font-size: 2rem;
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
     letter-spacing: +.05rem;
-    text-shadow: .15rem .1rem .05rem rgba(0, 0, 0, .2);
+    text-shadow: .15rem .1rem .05rem rgba(0, 0, 0, .1);
 }
 
 article {
@@ -99,6 +100,14 @@ figcaption {
     margin-top: .25rem 0 0;
     text-align: right;
     color: grey;
+}
+
+h3 {
+    color: black;
+    font-size: 1.2rem;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    letter-spacing: +.05rem;
+    text-shadow: .15rem .1rem .05rem rgba(0, 0, 0, .1);
 }
 
 footer {
